@@ -7,6 +7,13 @@ Server](https://github.com/anvilresearch/connect) and related libraries,
 see the **[Anvil Connect Docs](https://github.com/anvilresearch/connect-docs)**
 repo.
 
+## Existing Specs
+For an extensive reading list of existing specs covering OpenID Connect, OAuth2,
+JSON Web Tokens, and many more relevant standards, see:
+
+* **[Anvil Connect Wiki:
+  References](https://github.com/anvilresearch/connect/wiki/References)** page
+
 ## Proposal Process
 If you wish to propose a substantial addition to Anvil Connect, use the
 following process (loosely inspired by the [Ember.js RFC
